@@ -1,0 +1,31 @@
+
+
+.navbar_header{
+    position: sticky;
+    top: 0;
+    z-Index: 1;
+    width: 100%;
+    display: flex;
+    align-items:center;
+}
+
+.content {
+padding-top: 0px;
+padding-bottom: 6px; 
+}
+
+.main-content {
+ padding: 2px;
+ min-height: calc(100vh - 128px);
+ overflow: auto;
+}
+
+.footers{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #001529; /* Add background color as necessary */
+    color: #fff; /* Add text color as necessary */
+    text-align: center;
+    padding: 16px 0;
+}

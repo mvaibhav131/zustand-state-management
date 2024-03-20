@@ -1,0 +1,30 @@
+.app_dark{
+    background-color: black;
+    color:white
+}
+
+.app_light{
+    background-color: rgb(255, 255, 255);
+    color:black;
+}
+
+.card_dark{
+    background-color: black;
+    color:white;
+}
+
+.card_light{
+ background-color: rgba(255, 255, 255, 0.866);
+ border: 2px solid rgb(126, 122, 122);
+}
+
+.btn_dark{
+    background-color: black;
+    color:white;
+}
+
+.btn_light{
+    /* background-color: rgba(237, 237, 237, 0.67); */
+    color:rgb(47, 0, 255);
+}
+
