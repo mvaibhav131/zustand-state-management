@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zustand-state-management/static/css/main.40d7bb82.css",
+    "main.js": "/zustand-state-management/static/js/main.0a6b5cff.js",
+    "static/js/453.a0446872.chunk.js": "/zustand-state-management/static/js/453.a0446872.chunk.js",
+    "index.html": "/zustand-state-management/index.html",
+    "main.40d7bb82.css.map": "/zustand-state-management/static/css/main.40d7bb82.css.map",
+    "main.0a6b5cff.js.map": "/zustand-state-management/static/js/main.0a6b5cff.js.map",
+    "453.a0446872.chunk.js.map": "/zustand-state-management/static/js/453.a0446872.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d7bb82.css",
+    "static/js/main.0a6b5cff.js"
+  ]
+}
